@@ -1,6 +1,12 @@
 # [NÃO FINALIZADO] Ecommerce ReactJS
 Projeto feito com base no vídeo do canal JavaScript Mastery do YouTube.
 
+# :eyes: Visualizar projeto
+
+Clique no botão abaixo para ver o deploy do projeto na [Vercel](https://vercel.com)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://ecommerce-reactjs-seven.vercel.app/)
+
 # :pushpin: Índice
 
 * [Screenshot](#screenshot)
