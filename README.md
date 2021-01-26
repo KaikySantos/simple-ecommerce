@@ -1,4 +1,4 @@
-# [NÃO FINALIZADO] Ecommerce ReactJS
+# Ecommerce ReactJS
 Projeto feito com base no vídeo do canal JavaScript Mastery do YouTube.
 
 # :eyes: Visualizar projeto
@@ -23,7 +23,6 @@ Este projeto utiliza essas tecnologias:
 * [ReactJS](https://reactjs.org/)
 * [MaterialUI](https://material-ui.com/pt/)
 * [Commerce.js](https://commercejs.com/)
-* [StripeJS](https://stripe.com/docs/js)
 
 # :construction_worker: Como rodar ?
 ```bash
