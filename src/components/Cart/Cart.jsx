@@ -50,7 +50,7 @@ const Cart = ({
             </Button>
             <Button
               component={Link}
-              to="/checkout"
+              to="/"
               className={classes.checkoutButton}
               size="large"
               type="button"
