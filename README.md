@@ -17,8 +17,8 @@ Click on the button below to see the project's deployment on [Vercel](https://ve
 <img src="https://i.ibb.co/HxTFt7c/img-readme1.png" width="600px"></a>
 <img src="https://i.ibb.co/LS0PCGT/img-readme2.png" width="600px"></a>
 
-# :computer: Tecnologias
-Este projeto utiliza essas tecnologias:
+# :computer: Technologies
+This project uses these technologies:
 
 * [ReactJS](https://reactjs.org/)
 * [MaterialUI](https://material-ui.com/pt/)
