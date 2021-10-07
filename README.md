@@ -1,17 +1,17 @@
-# Ecommerce ReactJS
-Projeto feito com base no vídeo do canal JavaScript Mastery do YouTube.
+# Simple ecommerce
+Project based on the YouTube JavaScript Mastery channel video.
 
-# :eyes: Visualizar projeto
+# :eyes: View project
 
-Clique no botão abaixo para ver o deploy do projeto na [Vercel](https://vercel.com)
+Click on the button below to see the project's deployment on [Vercel](https://vercel.com)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://ecommerce-reactjs-seven.vercel.app/)
 
-# :pushpin: Índice
+# :pushpin: Index
 
 * [Screenshot](#screenshot)
-* [Tecnologias](#technologies)
-* [Como rodar ?](#run)
+* [Technologies](#technologies)
+* [How work ?](#run)
 
 # :camera: Screenshot
 <img src="https://i.ibb.co/HxTFt7c/img-readme1.png" width="600px"></a>
@@ -24,18 +24,18 @@ Este projeto utiliza essas tecnologias:
 * [MaterialUI](https://material-ui.com/pt/)
 * [Commerce.js](https://commercejs.com/)
 
-# :construction_worker: Como rodar ?
+# :construction_worker: How work ?
 ```bash
-# Clone o Repositório:
+# Clone this repository
 $ git clone https://github.com/KaikySantos/ecommerce-reactjs.git
 
-# Entre na pasta criada:
+# Access the project folder
 $ cd ecommerce-reactjs
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Rode a aplicação
+# Run the application
 $ npm start
 ```
-Entre em http://localhost:3000/ para ver o resultado.
+Go to http://localhost:3000/ to see the result.
